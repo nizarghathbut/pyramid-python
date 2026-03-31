@@ -1,4 +1,6 @@
-# pyramid-python
+# Nizar Ghathfan Zaidan' Python Project
+
+## Pyramid Python ([pyramid.py](pyramid.py))
 Pyramid Turtle Generator in Python
 
 [ID: Jalankan dengan python terus masukkan Jumlah dan Ukuran. Ingat jumlah harus bilangan bulat dan harus lebih dari 0 Tapi Ukuran bebas asal harus lebih dari 0]
