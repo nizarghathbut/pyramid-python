@@ -1,8 +1,8 @@
 import time
 import turtle
 
-jumlah = input("Jumlah: ")
-ukuran = input("Ukuran: ")
+jumlah = input("Amount: ")
+ukuran = input("Size: ")
 
 try:
     jumlah = int(jumlah)

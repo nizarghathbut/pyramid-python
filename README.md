@@ -3,6 +3,13 @@
 ## Pyramid Python ([pyramid.py](pyramid.py))
 Pyramid Turtle Generator in Python
 
-[ID: Jalankan dengan python terus masukkan Jumlah dan Ukuran. Ingat jumlah harus bilangan bulat dan harus lebih dari 0 Tapi Ukuran bebas asal harus lebih dari 0]
+**ID:** Jalankan file dengan Python dan masukkan Amount dan Size. Ingat Amount harus bilangan bulat dan harus lebih dari 0. Size boleh bebas asal harus lebih dari 0.
 
-[EN: Run with Python and then enter the Jumlah and Ukuran. Remember the Jumlah must be an integer and must be greater than 0, but the Ukuran can be any number as long as it is greater than 0]
+**EN:** Run this file with Python and input Amount and Size. Remember Amount must be an integer and greater than 0. Size can be any number as long as it's greater than 0.
+
+## Prime Python ([prime.py](prime.py))
+Prime Numbers Generator in Python
+
+**ID:** Jalankan file ini dengan Python dan masukan First Value dan End Value. Ingat End Value harus lebih dari First Value.
+
+**EN:** Run this file with Python and input First Value and End Value. Remember End Value must be greater than First Value.
