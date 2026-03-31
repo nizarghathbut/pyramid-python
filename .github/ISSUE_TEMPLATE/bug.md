@@ -10,6 +10,8 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+Bug in: [e.g. pyramid.py]
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
